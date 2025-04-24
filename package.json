@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ivaigor.github.io/elmontag1"
+  "homepage": "https://ivaigor.github.io/"
 ,
   "scripts": {
     "dev": "vite",
