@@ -29,7 +29,7 @@ export default function Services() {
         "Устранение неисправностей в электропроводке",
       ],
       price: "от 3 500 ₽",
-      image: "/elmontag1/i1.jpg",
+      image: "/i1.jpg",
     },
     {
       title: "Электромонтаж в частных домах",
@@ -47,7 +47,7 @@ export default function Services() {
         "Электромонтаж в банях и саунах",
       ],
       price: "от 5 000 ₽",
-      image: "/elmontag1/i2.jpg",
+      image: "/i2.jpg",
     },
     {
       title: "Коммерческий электромонтаж",
@@ -65,7 +65,7 @@ export default function Services() {
         "Электромонтаж вентиляционных систем",
       ],
       price: "от 8 000 ₽",
-      image: "/elmontag1/i3.jpg",
+      image: "/i3.jpg",
     },
     {
       title: "Промышленный электромонтаж",
@@ -83,7 +83,7 @@ export default function Services() {
         "Испытания и измерения параметров электросетей",
       ],
       price: "от 15 000 ₽",
-      image: "/elmontag1/i4.jpg",
+      image: "/i4.jpg",
     },
     {
       title: "Аварийные электромонтажные работы",
@@ -101,7 +101,7 @@ export default function Services() {
         "Экстренный ремонт уличной проводки",
       ],
       price: "от 2 000 ₽",
-      image: "/elmontag1/i5.webp",
+      image: "/i5.webp",
     },
     {
       title: "Проектирование электроснабжения",
@@ -119,7 +119,7 @@ export default function Services() {
         "Исполнительная документация",
       ],
       price: "от 10 000 ₽",
-      image: "/elmontag1/i6.webp",
+      image: "/i6.webp",
     },
     {
       title: "Слаботочные системы",
@@ -137,7 +137,7 @@ export default function Services() {
         "Локальные компьютерные сети",
       ],
       price: "от 4 500 ₽",
-      image: "/elmontag1/i7.jpg",
+      image: "/i7.jpg",
     },
   ];
 

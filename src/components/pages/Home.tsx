@@ -16,7 +16,7 @@ export default function Home() {
     <div className="space-y-16">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-blue-900 to-blue-700 text-white rounded-xl overflow-hidden shadow-xl">
-        <div className="absolute inset-0 bg-[url(/elmontag1/header.jpeg)] bg-cover bg-center opacity-20"></div>
+        <div className="absolute inset-0 bg-[url(/header.jpeg)] bg-cover bg-center opacity-20"></div>
         <div className="relative max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl md:text-4xl lg:text-6xl font-bold mb-6 leading-tight">
             Профессиональные{" "}
@@ -114,7 +114,7 @@ export default function Home() {
             <div
               className="h-48 bg-cover bg-center"
               style={{
-                backgroundImage: "url(/elmontag1/i1.jpg)",
+                backgroundImage: "url(/i1.jpg)",
               }}
             ></div>
             <div className="p-6">
@@ -154,7 +154,7 @@ export default function Home() {
             <div
               className="h-48 bg-cover bg-center"
               style={{
-                backgroundImage: "url(/elmontag1/i2.jpg)",
+                backgroundImage: "url(/i2.jpg)",
               }}
             ></div>
             <div className="p-6">
@@ -192,7 +192,7 @@ export default function Home() {
             <div
               className="h-48 bg-cover bg-center"
               style={{
-                backgroundImage: "url(/elmontag1/i3.jpg)",
+                backgroundImage: "url(/i3.jpg)",
               }}
             ></div>
             <div className="p-6">

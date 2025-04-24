@@ -7,7 +7,7 @@ import Contact from "./components/pages/Contact";
 
 function App() {
   return (
-    <Router basename="/elmontag1">
+    <Router basename="/">
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
